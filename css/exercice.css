@@ -31,6 +31,12 @@
 
 
 /* 5. exercice-align-1 */
+.exercice-align-1 .container {
+  background: rgb(80, 38, 11);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+}
 
 
 /* 6. exercice-align-2 */
