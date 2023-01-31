@@ -22,6 +22,12 @@
 
 
 /* 4. exercice-justify-3 */
+.exercice-justify-3 .container {
+  background-color: antiquewhite;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+}
 
 
 /* 5. exercice-align-1 */
