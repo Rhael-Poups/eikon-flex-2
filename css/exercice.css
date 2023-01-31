@@ -4,6 +4,12 @@
 }
 
 /* 2. exercice-justify-1 */
+.exercice-justify-1 .container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  background: pink;
+}
 
 
 /* 3. exercice-justify-2 */
