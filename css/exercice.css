@@ -59,7 +59,21 @@
 
 
 /* 8. exercice-all-1 */
+.exercice-all-1 .container {
+  background-color: rgba(255, 0, 136, 0.953);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
 
 
 /* 9. exercice-all-2 */
+.exercice-all-2 .container {
+  background-color: rgb(255, 247, 128);
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  justify-content: center;
+}
 
