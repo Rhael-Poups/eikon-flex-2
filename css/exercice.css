@@ -40,6 +40,12 @@
 
 
 /* 6. exercice-align-2 */
+.exercice-align-2 .container {
+  background: yellowgreen;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+}
 
 
 /* 7. exercice-align-3 */
